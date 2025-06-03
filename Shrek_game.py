@@ -615,4 +615,4 @@ def handle_room_castle():
       fight_dragon()
       break
 
-print(start_game())
+start_game()
